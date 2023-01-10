@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1CFlpavrCRPPUtPRqz5KrvZkz_DEO5rd2?usp=sha
 3. Modify the paths on 3rd and 6th Code Block
 * '/content/drive/MyDrive/ML/Project/X_test.csv' -> '/content/drive/MyDrive/{{path}}/X_test.csv'
 ![](https://i.imgur.com/IWVsLdd.png)
-* '/content/drive/MyDrive/ML/Project/model' -> '/content/drive/{path}/model'
+* '/content/drive/MyDrive/ML/Project/model' -> '/content/drive/MyDrive/{path}/model'
 ![](https://i.imgur.com/J7NeWJF.png)
 4. Then you can execute the code
 ![](https://i.imgur.com/QZtx1BE.png)
